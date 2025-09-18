@@ -1,0 +1,26 @@
+.contenedor{
+    margin:20px;
+    border: solid;
+    overflow: hidden;
+
+
+}
+
+.izquierda{
+    width: 40%;
+    background-color: rgb(137, 253, 253);
+    padding: 10px;
+    border: 1px solid ;
+    border-radius: 15px;
+    float: left;
+}
+
+.derecha{
+    width: 40%;
+    background-color: rgb(115, 90, 207);
+    padding: 10px;
+    border: 1px solid ;
+    border-radius: 15px;
+    float: right;
+    
+}
